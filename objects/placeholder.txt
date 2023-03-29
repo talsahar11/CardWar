@@ -1,0 +1,1 @@
+This file propose is to enable the object directory to be uploaded into github, because it is not possible to upload an empty directory.
